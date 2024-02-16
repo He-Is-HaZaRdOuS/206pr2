@@ -56,3 +56,12 @@ This will build your game.
 ## Note
 The resources folder (res) inside ./game might need to be copied over to the location of the executable and be put in its own game folder to utilize resources properly,
  it will look like the following: ./_bin/Debug or ./_bin/Release will have the game executable and a folder called game which houses the res folder as follows ./_bin/Debug/game/res or ./_bin/Release/game/res
+
+## Contributors
+* 20050111002, TAYFUN ÖZDEMİR, TyfnOz
+* 20050111008, SELÇUK GENÇAY, rhyrak
+* 20050111034, MERTER ÇOBAN, mertercoban
+* 21050111056, İSMAİL ALPER KOYUNCU, isology
+* 21050141023, YOUSEF SULTAN AHMED SAIF, yAlqubati
+* 21050141038, YOUSIF HARITH SUHAIL SUHAIL, He-Is-HaZaRdOuS
+ 

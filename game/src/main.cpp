@@ -36,7 +36,7 @@ int main(void){
 
     /*Create window*/
     InitWindow(config->windowWidth, config->windowHeight, "Hide & Seek");
-    if (config->windowHeight == 721)
+    if (config->windowHeight == 1080)
     {
         int monitor = GetCurrentMonitor();
         config->windowWidth = GetMonitorWidth(monitor) * 0.75F;
@@ -194,7 +194,7 @@ void Config::operator<<(const char* fileName) {
         std::cout << "CREATING DEFAULT CONFIG\n";
         *this = Config{
             { KEY_W,KEY_S,KEY_A,KEY_D,KEY_UP,KEY_DOWN,KEY_LEFT,KEY_RIGHT },
-            0.95F,0.95F,1280,721,1,false,false };    /*Define new Config Object*/
+            0.95F,0.95F,1920,1080,1,false,false };    /*Define new Config Object*/
     }
     else
     {

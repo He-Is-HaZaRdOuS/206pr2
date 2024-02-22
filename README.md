@@ -1,3 +1,14 @@
+# Screenshots
+Splash Screen
+![Alt](screenshots/splash.png)
+Settings
+![Alt](screenshots/settings.png)
+Game
+![Alt](screenshots/ex1.png)
+Debug/Godmode
+![Alt](screenshots/ex2.png)
+
+
 # Generate Projects
 For windows users, there are two batch files you can use depending on what compiler you are using. For linux users you can simply use a terminal.
 Only do ONE of these options depending on your compiler and platform.
